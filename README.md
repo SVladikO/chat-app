@@ -1,6 +1,5 @@
 # Hot to run
-npm run start
-npm run dev
+npm run start  or  npm run dev
 
 # About
 This is part of node.js course where
